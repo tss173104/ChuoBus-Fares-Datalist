@@ -16,16 +16,12 @@
     "route": "1/201X",
     "destZ": "石代碼頭",
     "destY": "鉑科町站",
-    "maxPZ": "2",
+    "maxPZ": "1",
     "priceZ1": "$7.8",
     "halfpriceZ1": "$3.9",
-    "priceZ2": "$4.0",
-    "halfpriceZ2": "$4.0",
-    "maxPY": "2",
+    "maxPY": "1",
     "priceY1": "$7.8",
     "halfpriceY1": "$3.9",
-    "priceY2": "$3.8",
-    "halfpriceY2": "$1.9",
   },
 
  {
